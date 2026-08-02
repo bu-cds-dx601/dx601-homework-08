@@ -12,7 +12,7 @@ Choose whichever option works best for your situation.
 ### Downloading the Assignment from GitHub
 
 * Visit the homework repository. This should be where you found this README. Otherwise, you can find it in the [course homework repository list](https://github.com/orgs/bu-cds-dx601/repositories).
-* Click on **homework.ipynb** to view the notebook.
+* Click on **dx601-homework-08.ipynb** to view the notebook.
 * Depending on your chosen option:
   * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. Repeat this process for the 2 data files with names ending in ".tsv". <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
   * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
@@ -22,7 +22,7 @@ Choose whichever option works best for your situation.
 #### Option A: As a Local File
 
 1. Open Jupyter (Anaconda, JupyterLab, or VS Code with Jupyter support).
-2. Navigate to the downloaded **homework.ipynb**.
+2. Navigate to the downloaded **dx601-homework-08.ipynb**.
 3. Edit and run the notebook to complete the assignment.
 4. Make sure to save the notebook before continuing.
 
@@ -30,7 +30,7 @@ Choose whichever option works best for your situation.
 
 1. Go to the repository for this homework. If necessary, you can find it again in the [course homework respositories list](https://github.com/orgs/bu-cds-dx601/repositories).
 2. Click the green **Code** button and select **Open with Codespaces > New codespace**.
-3. Once Codespaces launches, open **homework.ipynb** directly from the Codespaces file list.
+3. Once Codespaces launches, open **dx601-homework-08.ipynb** directly from the Codespaces file list.
 4. Edit and run the notebook using the built-in JupyterLab interface.
 5. When finished, download the completed notebook: right-click the file in the Codespaces file tree → **Download**.
 
@@ -55,7 +55,7 @@ Choose whichever option works best for your situation.
 #### Gradescope Submission Guidelines
 
 * Upload your notebook using the Gradescope link in Blackboard.
-* Be sure you upload only one file, named **homework.ipynb**.
+* Be sure you upload only one file, named **dx601-homework-08.ipynb**.
 * You may resubmit before the deadline, but your last submission will determine the date and time of submission.
 * For full credit, you must submit it to Gradescope by midnight on Sunday, with a two-hour grace period.
 * Assignments submitted late will be penalized 10% per day, up to five days late, after which no assignment will be accepted.
